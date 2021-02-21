@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Atom</string>
+    <string name="a_more_mindful_you">A more mindful you</string>
+    <string name="login_password_hint">Enter Password</string>
+    <string name="login_email_hint">Enter Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="continue_with_the_google">Continue with the Google</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="we_just_need_your_registered_email_id_to_sent_you_password_reset_instructions">We just need your registered Email Id to send you password reset instructions.</string>
+    <string name="hint_email">Enter your registered email</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="confirm_password">Confirm Password</string>
+</resources>
